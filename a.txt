@@ -1,1 +1,2 @@
-new file a
+new file a.
+anoter content added to a.
