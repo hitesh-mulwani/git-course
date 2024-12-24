@@ -1,2 +1,4 @@
 new file a.
 anoter content added to a.
+new line 1.
+new line 2.
